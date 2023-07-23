@@ -1,16 +1,10 @@
-## [açık-kaynak.org](https://acik-kaynak.org/)
+## Açık Yazılım Ağı Bilişim Meta-Topluluğu
 
-Açık kaynak ekosistemine katkıda bulunmak, insanları açık kaynak geliştirmeye
-motive etmek, farkındalık oluşturmak ve bu alanda içerik sağlamak için
-[10forward](https://10forward.io/) meta-topluluğunun bir alt mecrası olarak
-ilgililere rehber olmaya çalışıyoruz.
+Açık Yazılım Ağı olarak bilişim sektörüne temas eden gönüllü ve profesyonellere 2015'den bu yana yapmış olduğumuz çalışmalarla bir çatı sağlamaya çalışıyoruz. Meta-topluluk ismini vermiş olduğumuz bu çatı altında kişilerin, toplulukların, firmaların, resmi kurumların ve sivil toplum kuruluşlarının iletişimini ve iş birliğini kolaylaştırmayı sağlayarak ekosistem oluşmasına öncülük ediyoruz.
 
-Bu girişim üzerinden açık kaynak hakkında içeriklere ve açık kaynak projelere
-erişebileceksiniz.
+Bugüne kadar kişi, topluluk ve kurumları açık kaynak geliştirmeye motive etmek, farkındalık oluşturmak, bir araya getirmek, birlikte projeler yapmak, bu alanda içerik sağlamak vb. alanlarda katkılarda bulunduk. [afet.org](https://acikyazilimagi.com/afet.org), [gonullu.io](https://acikyazilimagi.com/gonullu.io) vb. örnek topluluk projelerimiz toplumsal etkiler bıraktı.
 
 
 ## Daha Fazlası
 
-[açık-kaynak.org](https://acik-kaynak.org/) adresinde web sitemizi ziyaret
-edebilir, hem rehberimizden yararlanıp hem de açık kaynak olarak listelenen
-projelere ulaşabilirsiniz!
+Bugün [acikyazilimagi.com](https://acikyazilimagi.com) altında kendini Açık Yazılım Ağı'nın bir parçası olarak gören tüm unsurların kendi eforlarını görselleştirmelerine ve paylaşmalarına olanak sağlamak istiyoruz. Her geçen gün dünden daha iyi olmaya çalışma ve ekosistemin önünde olduğunu düşündüğümüz engelleri kaldırma çabamız devam ediyor.
